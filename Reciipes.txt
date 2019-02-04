@@ -8,5 +8,6 @@ pasta
 chicken fry
  beans 
   pizza
+smosa
 
 Thank you.
